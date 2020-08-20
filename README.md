@@ -7,4 +7,6 @@ Your dataset to train the AutoEncoder Model needs to be .wav files since the lib
 
 #Must note that the compression is for Data Transfer and Data Transmission not Storage since you will get a pickle file which you can decode later!
 
+Code of both Encoding and Decoding is available in the jupyter file. Happy Compressing! 
+
 If you have a problem getting the dataset, feel free to reach out to me @ waheed@pnw.edu
