@@ -1,6 +1,6 @@
 # AudioCompression using AutoEncoder
 # Machine Learning is replacing previous techniques in each field
-# So I thought why not try Machine Learning to compress the audio and open-source it to the community
+# So I thought why not try Machine Learning to compress the audio and open-source it to the community which helps me on a daily basis
 
 Nodes for each layer can be tweeked, you can compress an audio upto 35 TIMES or even more (I haven't tried it myself because it was enough for me but you obviously can)!
 Your dataset to train the AutoEncoder Model needs to be .wav files since the libraries used in the code are not quite friendly with other formats.
