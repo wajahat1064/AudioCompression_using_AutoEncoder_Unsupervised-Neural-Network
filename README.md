@@ -1,4 +1,4 @@
-# AudioCompression_using_AUTOENCODER
+# AudioCompression using AutoEncoder
 # Machine Learning is replacing previous techniques in each field
 # So I thought why not try Machine Learning to compress the audio and open-source it to the community
 
