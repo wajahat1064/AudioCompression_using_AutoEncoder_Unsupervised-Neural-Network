@@ -3,9 +3,10 @@
 # So I thought why not try Machine Learning to compress the audio
 
 Nodes for each layer can be tweeked, you can compress an audio upto 23 TIMES or even more (I haven't tried it myself because it was enough for me but you obviously can)!
+
 Your dataset to train the AutoEncoder Model needs to be .wav files since the libraries used in the code are not quite friendly with other formats.
 
-#Must note that the compression is for Data Transfer and Data Transmission not Storage since you will get a pickle file which you can decode later!
+# #Must note that the compression is for Data Transfer and Data Transmission not Storage since you will get a pickle file which you can decode later!
 
 Code of both Encoding and Decoding is available in the jupyter file. Happy Compressing! 
 
