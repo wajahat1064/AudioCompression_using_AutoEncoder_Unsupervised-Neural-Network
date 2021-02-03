@@ -11,3 +11,5 @@ Your dataset to train the AutoEncoder Model needs to be .wav files since the lib
 Code of both Encoding and Decoding is available in the jupyter file. Happy Compressing! 
 
 If you have a problem getting the dataset, feel free to reach out to me @ waheed@pnw.edu
+
+This project was supervised by Professor Orhan Arikan, Department Chair of Bilkent University's EEE department.
