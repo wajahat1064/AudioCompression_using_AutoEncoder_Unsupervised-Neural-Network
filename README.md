@@ -2,7 +2,7 @@
 # Machine Learning is replacing previous techniques in each field
 # So I thought why not try Machine Learning to compress the audio
 
-Nodes for each layer can be tweeked, you can compress an audio upto 23 TIMES or even more (I haven't tried it myself because it was enough for me but you obviously can)!
+Nodes for each layer can be tweeked, you can compress an audio upto 23 TIMES or even more (I haven't tried it myself but you obviously can)!
 
 Your dataset to train the AutoEncoder Model needs to be .wav files since the libraries used in the code are not quite friendly with other formats.
 
